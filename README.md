@@ -1,6 +1,6 @@
 # 🚀 Kubernetes Cluster Creation with Kops on AWS
 
-![Kops Architecture](images/kops-cluster-flow.png)
+![uru-com](images/logo.png)
 
 ## 📖 Overview
 This repository contains a complete end-to-end Kubernetes cluster setup on AWS using Kops.
