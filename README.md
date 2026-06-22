@@ -13,10 +13,6 @@ Features:
 - Route53 Hosted Zone Configuration
 - S3 State Store
 - SSH Key Configuration
-- Kubernetes Cluster Creation
-- Nginx Deployment
-- LoadBalancer Service Exposure
-- Production vs Practice Architecture
 
 ---
 
