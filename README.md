@@ -82,7 +82,7 @@ brew install kops
 
 ---
 
-## 🪣 Create S3 State Store
+## 🪣 Create S3 Bucket for State Store
 
 ```bash
 aws s3 mb s3://urukundu-kops-state-store
