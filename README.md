@@ -50,6 +50,7 @@ For more context on each image, see [docs/diagram-descriptions.md](docs/diagram-
 | Requirement | Description |
 |---|---|
 | AWS Account | Active AWS Account |
+| S3 Bucket | S3 State Store |
 | Domain | Route53 Compatible Domain |
 | AWS CLI | Installed and Configured |
 | kubectl | Kubernetes CLI |
