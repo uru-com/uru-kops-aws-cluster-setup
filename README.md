@@ -127,7 +127,8 @@ kops create cluster \
   --node-size t3.small \
   --control-plane-count 1 \
   --control-plane-size t3.small \
-  --ssh-public-key ~/.ssh/id_ed25519.pub
+  --ssh-public-key ~/.ssh/id_ed25519.pub \
+  --dns-zone urukundu.com
 ```
 
 Apply:
