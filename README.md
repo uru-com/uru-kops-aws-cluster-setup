@@ -89,12 +89,6 @@ aws s3 mb s3://urukundu-kops-state-store
 ```
 
 ```bash
-aws s3api put-bucket-versioning \
-  --bucket urukundu-kops-state-store \
-  --versioning-configuration Status=Enabled
-```
-
-```bash
 export KOPS_STATE_STORE=s3://urukundu-kops-state-store
 ```
 
